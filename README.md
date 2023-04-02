@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there, I'm Sunil -  Coder, Tester, and Web Developer 👋 
+http://sunilbombe.epizy.com
 
-<!--
-**sunil-bombe/sunil-bombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Java Backend Developer, Web UI Developer, and Tester!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning GCP cloud
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about MicroServices and Testing Frameworks
+- ⚡ I love to reading and buiding new tech tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+https://www.linkedin.com/in/sunil-bombe-5276b026a/
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sunil-bombe&show_icons=true&count_private=true&theme=dark"/>
+</p>
+
+# About Me
+
+I'm Sunil Bombe, a Full Stack Developer in Angular (Spring Boot Microservices) Stack.
+
+I love to learn about how things work and try new tools and technologies.
+
+# Skills
+## Programming Languages:
+
+<img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
+<img src="https://img.shields.io/badge/Java 8 -brightgreen" alt="Java 8" />
+<img src="https://img.shields.io/badge/HTML5 -brightgreen" alt="HTML5" />
+<img src="https://img.shields.io/badge/PHP -brightgreen" alt="PHP" />
+<img src="https://img.shields.io/badge/CSS -brightgreen" alt="CSS" />
+<img src="https://img.shields.io/badge/Type Script -brightgreen" alt="Type Script" />
+<!-- * C/C++
+* JavaScript (ES6)-->
+
+## Frameworks:
+
+### Angular, Node.js, Express.js, Spring Boot, 
+
+## Database:
+
+### MongoDB, MySQL, BigQuery
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bombe&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/sunil-bombe/github-readme-stats)
