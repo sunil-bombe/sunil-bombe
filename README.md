@@ -1,5 +1,5 @@
 # Hi there, I'm Sunil -  Coder, Tester, and Web Developer 👋 
-http://sunilbombe.epizy.com
+[https://sunil-bombe.github.io/SUNIL-BOMBE-RESUME](https://sunil-bombe.github.io/SUNIL-BOMBE-RESUME/)
 
 ## I'm a Java Backend Developer, Web UI Developer, and Tester!!
 
