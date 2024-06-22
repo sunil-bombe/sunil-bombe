@@ -2,10 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-bombe-5276b026a/)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunil-bombe&show_icons=true&count_private=true&theme=dark"/>
-</p>
-
 ### Glad to see you here!🤩 About me 👓
 
 - I'm a passionate software engineer with a strong background in computer science and extensive experience in developing and automating modern applications. I specialize in backend development, cloud computing, and automation testing
