@@ -1,12 +1,16 @@
-# Hi there, I'm Sunil - Coder, Tester, and Web Developer 👋 
+# 👋 Hi, I'm Sunil Bombe!
+
+I'm a passionate software engineer with a strong background in computer science and extensive experience in developing and automating modern applications. I specialize in backend development, cloud computing, and automation testing. My skills include:
+
+Programming Languages: Java, Python, JavaScript, Node.js
+Frameworks and Tools: Spring Boot, Spring Cloud, Mircroservices, Selenium, Cypress, Cucumber
+Cloud Platforms: AWS (Certified Developer – Associate, Certified Cloud Practitioner), GCP (currently learning)
+Automation and CI/CD: Jenkins, API Automation, Process Automation using UiPath
+Version Control: Git, GitHub
+🎓 I hold an M.Sc in Computer Science and a B.Sc in Computer Science from Dr. D. Y. Patil ACS College Pimpri.
+📚 I enjoy reading and building new tech tools, constantly expanding my knowledge and skill set. Feel free to check out my repositories and connect with me!
+
 [https://sunil-bombe.github.io/SUNIL-BOMBE-RESUME](https://sunil-bombe.github.io/SUNIL-BOMBE-RESUME/)
-
-## I'm a Java Backend Developer, Web UI Developer, and Tester!!
-
-- 🌱 I’m currently learning GCP cloud
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about MicroServices and Testing Frameworks
-- ⚡ I love reading and building new tech tools
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
