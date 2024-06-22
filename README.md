@@ -15,10 +15,6 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunil-bombe&show_icons=true&count_private=true&theme=dark"/>
-</p>
-
 
 # Skills
 
@@ -58,7 +54,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bombe&theme=radical" />
 </a>
 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bombe&layout=compact&theme=vision-friendly-dark&show_icons=true" />
-</p>
