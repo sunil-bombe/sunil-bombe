@@ -8,6 +8,8 @@
 - 🥅 2023 Goals: Learn more about MicroServices and Testing Frameworks
 - ⚡ I love reading and building new tech tools
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-bombe-5276b026a/)
 
