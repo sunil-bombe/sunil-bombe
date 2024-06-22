@@ -15,9 +15,6 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-bombe-5276b026a/)
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sunil-bombe&show_icons=true&count_private=true&theme=dark"/>
 </p>
