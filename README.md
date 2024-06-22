@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sunil Bombe!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-bombe-5276b026a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sunil_Bombe-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil-bombe-5276b026a/)](https://www.linkedin.com/in/sunil-bombe-5276b026a/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Sunil_Bombe-g?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14684888/sunil-bombe)](https://stackoverflow.com/users/14684888/sunil-bombe)
+[![Github Badge](https://img.shields.io/badge/-Sunil_Bombe-orange?style=flat&logo=github&logoColor=white&link=https://github.com/sunil-bombe)](https://github.com/sunil-bombe)
 
 ### Glad to see you here!🤩 About me 👓
 
