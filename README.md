@@ -6,7 +6,6 @@
 
 - I'm a passionate software engineer with a strong background in computer science and extensive experience in developing and automating modern applications. I specialize in backend development, cloud computing, and automation testing
 - 🎓 I hold an M.Sc in Computer Science and a B.Sc in Computer Science from Pune University 🏛.
-- 🎯 Java Full Stack Developer | Python | Artificial Intelligence | Deep learning  
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  
 - I love to explore new technologies and leverage them to solve real-life problems ✨.
 - Apart from that I also love to guide and mentor newbies 👨🏻💻.
